@@ -1,1 +1,2 @@
 # PalindromeCheckerApp
+This program defines the main entry point of the Palindrome Checker Management System. When executed, the JVM calls the main() method, which initializes the application and displays a formatted welcome message along with the application version. At this stage, no palindrome checking functionality is implemented; the purpose is to establish the basic startup flow of the system.
